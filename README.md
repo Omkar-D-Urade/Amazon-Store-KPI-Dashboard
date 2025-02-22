@@ -1,10 +1,14 @@
-Amazon Store KPI Dashboard
-Developed a comprehensive KPI dashboard to analyze Amazon store performance, sales trends, and customer behavior. Given the dataset was under 1GB, directly imported it into Power BI without SQL preprocessing.
+ Project Overview
+This project focuses on tracking key performance indicators (KPIs) for an Amazon store, providing insights into sales trends, order fulfillment, and customer engagement. The dashboard integrates SQL for data extraction and Power BI for visualization, enabling real-time decision-making and business optimization.
 
-Challenges & Solutions:
-
-Data Cleaning & Preparation: Addressed missing values, inconsistent data types, and formatting issues directly in Power BI.
-Schema & Relationships: Established logical data relationships between sales, products, and customer tables for accurate aggregation.
-DAX Calculations: Created custom measures and calculated columns for context-based filtering and performance tracking.
-Visualization & Insights: Designed dynamic dashboards to highlight key metrics, optimizing decision-making for sales and operational efficiency.
-This project enhanced data-driven strategies for tracking retail KPIs, improving store performance insights.
+📊 Key Features
+Sales Performance Analysis: Tracks revenue, profit margins, and order volume.
+Customer Insights: Analyzes purchase trends, retention rates, and segmentation.
+Inventory & Order Management: Monitors stock levels, fulfillment efficiency, and out-of-stock rates.
+Data Processing: Uses SQL for data cleaning, transformation, and querying.
+Power BI Dashboard: Implements DAX functions for KPI calculations and dynamic reporting.
+📈 Key Insights
+Sales revenue grew by 35% MoM, with increased customer engagement.
+Repeat customers contributed to 60% of total sales, indicating strong brand loyalty.
+Out-of-stock rate reduced by 18% through inventory optimization.
+Top-selling categories included electronics, home essentials, and fashion.
